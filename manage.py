@@ -1,4 +1,8 @@
 #!/usr/bin/env python
+'''
+Easy to use
+Its amazing
+'''
 import os
 import sys
 
